@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>YOUR TITLE</title>
+</head>
+<body>
+ <p>YOUR TEXT</p>
+ <img src="YOUR IMAGE.jpg" alt="....."/>
+ <p>YOUR TEXT</p>
+ <img src="URL" alt="YOUR TEXT"/>
+</body>
+</html>
+
+
